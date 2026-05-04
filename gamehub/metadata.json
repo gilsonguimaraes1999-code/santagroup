@@ -1,0 +1,6 @@
+{
+  "name": "SG HUB - Manual do Vendedor",
+  "description": "Sistema de gerenciamento de ofertas e links exclusivos da SantaGroup com integração ao Google Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["full-stack"]
+}
